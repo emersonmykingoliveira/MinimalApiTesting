@@ -14,7 +14,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Todo.Dapper", "src\Todo.Dap
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Todo.EFCore", "src\Todo.EFCore\Todo.EFCore.csproj", "{86F92BD2-A904-45C2-A7EC-E14B0C8803A6}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MinimalApiPlayground", "src\MinimalApiPlayground\MinimalApiPlayground.csproj", "{1460D444-3B6C-4557-A4A8-9F2A96FFE9AC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MinimalApi", "src\MinimalApiPlayground\MinimalApi.csproj", "{1460D444-3B6C-4557-A4A8-9F2A96FFE9AC}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{943F33A2-9ADD-414D-86EA-18791AC22B59}"
 EndProject
@@ -27,7 +27,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "workflows", "workflows", "{
 		.github\workflows\dotnet.yml = .github\workflows\dotnet.yml
 	EndProjectSection
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MinimalApiPlayground.Tests", "tests\MinimalApiPlayground.Tests\MinimalApiPlayground.Tests.csproj", "{1643B8F9-E75F-4A9D-BF0B-4321C289D023}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MinimalApi.Tests", "tests\MinimalApiPlayground.Tests\MinimalApi.Tests.csproj", "{1643B8F9-E75F-4A9D-BF0B-4321C289D023}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

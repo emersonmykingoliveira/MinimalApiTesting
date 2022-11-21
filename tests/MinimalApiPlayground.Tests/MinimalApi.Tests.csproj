@@ -30,6 +30,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\src\MinimalApiPlayground\MinimalApiPlayground.csproj" />
+    <ProjectReference Include="..\..\src\MinimalApiPlayground\MinimalApi.csproj" />
   </ItemGroup>
 </Project>
